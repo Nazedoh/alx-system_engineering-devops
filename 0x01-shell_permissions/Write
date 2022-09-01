@@ -1,1 +1,2 @@
 id -Gn a script that2-groups
+chmod u+x hello a script that5-execute
