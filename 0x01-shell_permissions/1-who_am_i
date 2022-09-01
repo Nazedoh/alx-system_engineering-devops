@@ -1,2 +1,2 @@
 #!/bin/bash
-lpr whoami
+id -un
